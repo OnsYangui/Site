@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://tufratech.com/sitemap.xml
+
+Sitemap: https://fancy-pastelito-b9c812.netlify.app/sitemap.xml
